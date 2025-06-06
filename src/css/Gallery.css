@@ -6,7 +6,7 @@
 }
 
 .gallery img {
-  width: 150px;
-  height: auto;
+  width: 250px;
+  height: 250px;
   border-radius: 8px;
 }
