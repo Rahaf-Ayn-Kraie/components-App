@@ -1,0 +1,12 @@
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.gallery img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+}
